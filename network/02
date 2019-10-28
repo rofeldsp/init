@@ -1,0 +1,5 @@
+# a
+ifconfig | grep broaddcast | cut -d " " -f 6
+
+# b
+arp -a
