@@ -1,0 +1,5 @@
+We can use web-services like 2ip.ru/whois/ 
+Enter out domain in search field and look for 
+"Название провайдера". For slash16.org it will be Amazon Technologies Inc.
+
+Second option is to enter "whois slash16.org" in command line and grep "Name server", which contains provider information. AWS stands for Amazon Web Service 
