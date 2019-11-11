@@ -1,0 +1,1 @@
+ystemctl list-units --type service --all
